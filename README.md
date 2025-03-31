@@ -1,7 +1,5 @@
 
-# Project Title
-
-Unhoused Resources App
+# Unhoused Resources App
 
 ## Description
 A mobile app/website that aims to connect unhoused individuals and their supporters with essential resources across Seattle. 
