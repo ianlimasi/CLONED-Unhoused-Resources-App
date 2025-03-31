@@ -1,13 +1,28 @@
 
-
-// NOTE: This is just a place-holder template to fill out
 # Project Title
 
 Unhoused Resources App
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Below are the specific files and components I have worked on as part of the development of this project:
+
+## My Contributions
+**app/(tabs)/resource_page.tsx**
+- Responsible for displaying and organizing the main resource page.
+- Integrated dynamic data fetching and view rendering to display resources in a user-friendly format.
+
+**components/MapView.tsx**
+- Developed the component to display interactive maps with location markers.
+- Integrated with external map APIs to enable accurate location tracking and resource visualization.
+
+**components/ResImage.tsx**
+- Created the image display component that handles different image layouts and responsiveness.
+- Ensured high-quality, responsive images on the app, with support for dynamic scaling.
+
+**components/MapButton.tsx**
+- Developed the customizable button component with dynamic text and icon.
+- Added support for flexible layout options and integrated the component into the main app navigation and resources page.
 
 ## Getting Started
 
