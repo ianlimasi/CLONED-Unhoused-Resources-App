@@ -1,5 +1,4 @@
-// LEO: my first pull-request
-// RAAHIL: My first commit
+
 
 // NOTE: This is just a place-holder template to fill out
 # Project Title
