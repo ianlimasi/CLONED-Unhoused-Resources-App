@@ -8,7 +8,7 @@ A mobile app/website that aims to connect unhoused individuals and their support
 - I'm responsible for UI design in Figma, implementing interactive elements using React Native, integrating Google Maps API, and managing backend data with Supabase.
 - I improved the intuitiveness of page interfaces, cutting user decision/learning time by 87.5%.
 
-## My Contributions (As of March April 1st, 2025)
+## My Contributions (As of April 1st, 2025)
 **app/(tabs)/resource_page.tsx**
 - Responsible for displaying and organizing the main resource page.
 - Will be integrated with data from the Google Maps API.
