@@ -8,7 +8,7 @@ A mobile app/website that aims to connect unhoused individuals and their support
 - I'm responsible for UI design in Figma, implementing interactive elements using React Native, integrating Google Maps API, and managing backend data with Supabase.
 - I improved the intuitiveness of page interfaces, cutting user decision/learning time by 87.5%.
 
-## My Contributions (As of March 30, 2025)
+## My Contributions (As of March April 1st, 2025)
 **app/(tabs)/resource_page.tsx**
 - Responsible for displaying and organizing the main resource page.
 - Will be integrated with data from the Google Maps API.
@@ -17,8 +17,20 @@ A mobile app/website that aims to connect unhoused individuals and their support
 - Created the image display component that handles different image layouts and responsiveness on the Resources Page.
 
 **components/MapButton.tsx**
-- Developed the customizable button component with dynamic text and icons.
-- Will be used to redirect users to resources (directions, call, save, website) or filter pins on the map page (food, hygiene, shelter, etc)
+- Developed a customizable button component with dynamic text and icons.
+- Will be used to redirect users to resources (directions, call, save, website) or filter pins on the map page (food, hygiene, shelter, etc).
+
+**components/ReviewBar.tsx**
+- Developed a review bar component with a resizable colored part/progress.
+- Will be used to roughly indicate what percentage of users rate 5,4,3,2 and 1 stars.
+
+**components/ReviewBox.tsx**
+- Developed a customizable review box component.
+- Will be used to display the review, profile picture, and profile data of each reviewer.
+
+**components/ReviewStars.tsx**
+- Developed a customizable review stars component
+- Will be used to display the ratings of a resource.
 
 ## Getting Started
 
